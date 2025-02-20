@@ -1,9 +1,9 @@
 ## Olá, eu sou Felipe Jovino dos Santos! 
 ### Full Stack Developer | TypeScript, Next.js, Node.js, AdonisJS, PostgreSQL | Microeletrônica & ESP32 | Python & IA | Pesquisador Acadêmico
 
-🔹 Apaixonado por tecnologia, inovação e pesquisa.  
-🔹 Desenvolvo soluções escaláveis e seguras utilizando tecnologias modernas.  
-🔹 Interesse especial em IA, IoT e otimização de processos.  
+> Apaixonado por tecnologia, inovação e pesquisa.
+> Desenvolvo soluções escaláveis e seguras utilizando tecnologias modernas.
+> Interesse especial em IA, IoT e otimização de processos.  
 
 **Destaques:**  
 - Pesquisador em IA e Eletrônica no LABIC - IFS  
@@ -38,11 +38,11 @@
 ---
 
 ### Projetos Principais
-🔹 **[TaskBoard](https://github.com/Jovinull/taskboard)** → Gerenciador de tarefas moderno com Next.js e Firebase.  
-🔹 **[py-etl](https://github.com/Jovinull/py-etl)** → Automação de processos de ETL para clínicas médicas.  
-🔹 **[Snake-IA](https://github.com/Jovinull/Snake-IA)** → Jogo da Cobrinha com IA baseada em Deep Q-Learning.  
-🔹 **[IrrigaControll](https://github.com/Jovinull/IrrigaControll)** → Automação de irrigação inteligente com ESP32 e Flask.  
-🔹 **[Adonis-Movies](https://github.com/Jovinull/adonis-movies)** → Estudos sobre AdonisJS v6, ORM Lucid e templates Edge.js.  
+-> **[TaskBoard](https://github.com/Jovinull/taskboard)** → Gerenciador de tarefas moderno com Next.js e Firebase.  
+-> **[py-etl](https://github.com/Jovinull/py-etl)** → Automação de processos de ETL para clínicas médicas.  
+-> **[Snake-IA](https://github.com/Jovinull/Snake-IA)** → Jogo da Cobrinha com IA baseada em Deep Q-Learning.  
+-> **[IrrigaControll](https://github.com/Jovinull/IrrigaControll)** → Automação de irrigação inteligente com ESP32 e Flask.  
+-> **[Adonis-Movies](https://github.com/Jovinull/adonis-movies)** → Estudos sobre AdonisJS v6, ORM Lucid e templates Edge.js.  
 
 Veja mais projetos [aqui](https://github.com/Jovinull?tab=repositories)!  
 
