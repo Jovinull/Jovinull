@@ -108,21 +108,20 @@ Sou desenvolvedor full-stack com foco em **AdonisJS v6, Next.js e PostgreSQL**, 
 
 ## Stack
 
-<!-- Faixa de ícones da stack (100% local). Ajuste o "height" se quiser menor/maior. -->
+<!-- Faixa de ícones (apenas o que existe em ./assets/icons). Use height/width em atributos, não em style. -->
 <p align="center">
-  <img src="./assets/icons/typescript.svg" alt="TypeScript" height="28" />
-  <img src="./assets/icons/javascript.svg" alt="JavaScript" height="28" style="display:none" />
-  <img src="./assets/icons/nodejs.svg" alt="Node.js" height="28" />
-  <img src="./assets/icons/adonisjs.svg" alt="AdonisJS" height="28" />
-  <img src="./assets/icons/nextjs.svg" alt="Next.js" height="28" />
-  <img src="./assets/icons/react.svg" alt="React" height="28" />
-  <img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" height="28" />
-  <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" height="28" />
-  <img src="./assets/icons/python.svg" alt="Python" height="28" />
-  <img src="./assets/icons/java.svg" alt="Java" height="28" />
-  <img src="./assets/icons/docker.svg" alt="Docker" height="28" />
-  <img src="./assets/icons/vscode.svg" alt="VS Code" height="28" />
-  <img src="./assets/icons/arduino.svg" alt="Arduino/ESP32 (ícone Arduino)" height="28" />
+  <img src="./assets/icons/typescript.svg" alt="TypeScript" height="28">
+  <img src="./assets/icons/nodejs.svg"     alt="Node.js"    height="28">
+  <img src="./assets/icons/nextjs.svg"     alt="Next.js"    height="28">
+  <img src="./assets/icons/react.svg"      alt="React"      height="28">
+  <img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" height="28">
+  <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" height="28">
+  <img src="./assets/icons/python.svg"     alt="Python"     height="28">
+  <img src="./assets/icons/java.svg"       alt="Java"       height="28">
+  <img src="./assets/icons/docker.svg"     alt="Docker"     height="28">
+  <img src="./assets/icons/vscode.svg"     alt="VS Code"    height="28">
+  <img src="./assets/icons/adonisjs.svg"   alt="AdonisJS"   height="28">
+  <img src="./assets/icons/arduino.svg"    alt="Arduino/ESP32" height="28">
 </p>
 
 **Linguagens:** TypeScript · JavaScript · Python · Java · C/C++  
@@ -132,27 +131,27 @@ Sou desenvolvedor full-stack com foco em **AdonisJS v6, Next.js e PostgreSQL**, 
 **IoT:** ESP32/Arduino · MQTT · React Native (Expo)  
 **Dev-Ops:** Git/GitHub · Docker · Vercel · Linux
 
-<!-- Grade com ícone + rótulo (responsivo no GFM); tudo local -->
+<!-- Grade responsiva somente com ícones que você tem no repo -->
 <table>
   <tr>
-    <td align="center"><img src="./assets/icons/adonisjs.svg" height="32" alt="AdonisJS" /><br/><sub>AdonisJS</sub></td>
-    <td align="center"><img src="./assets/icons/nextjs.svg" height="32" alt="Next.js" /><br/><sub>Next.js</sub></td>
-    <td align="center"><img src="./assets/icons/react.svg" height="32" alt="React" /><br/><sub>React</sub></td>
-    <td align="center"><img src="./assets/icons/typescript.svg" height="32" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
-    <td align="center"><img src="./assets/icons/nodejs.svg" height="32" alt="Node.js" /><br/><sub>Node.js</sub></td>
-    <td align="center"><img src="./assets/icons/postgresql.svg" height="32" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="./assets/icons/adonisjs.svg"    height="32" alt="AdonisJS"><br><sub>AdonisJS</sub></td>
+    <td align="center"><img src="./assets/icons/nextjs.svg"      height="32" alt="Next.js"><br><sub>Next.js</sub></td>
+    <td align="center"><img src="./assets/icons/react.svg"       height="32" alt="React"><br><sub>React</sub></td>
+    <td align="center"><img src="./assets/icons/typescript.svg"  height="32" alt="TypeScript"><br><sub>TypeScript</sub></td>
+    <td align="center"><img src="./assets/icons/nodejs.svg"      height="32" alt="Node.js"><br><sub>Node.js</sub></td>
+    <td align="center"><img src="./assets/icons/postgresql.svg"  height="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/icons/python.svg" height="32" alt="Python" /><br/><sub>Python/ML</sub></td>
-    <td align="center"><img src="./assets/icons/java.svg" height="32" alt="Java" /><br/><sub>Java</sub></td>
-    <td align="center"><img src="./assets/icons/tailwindcss.svg" height="32" alt="Tailwind CSS" /><br/><sub>Tailwind</sub></td>
-    <td align="center"><img src="./assets/icons/docker.svg" height="32" alt="Docker" /><br/><sub>Docker</sub></td>
-    <td align="center"><img src="./assets/icons/vscode.svg" height="32" alt="VS Code" /><br/><sub>VS Code</sub></td>
-    <td align="center"><img src="./assets/icons/arduino.svg" height="32" alt="Arduino/ESP32" /><br/><sub>Arduino/ESP32</sub></td>
+    <td align="center"><img src="./assets/icons/python.svg"      height="32" alt="Python"><br><sub>Python/ML</sub></td>
+    <td align="center"><img src="./assets/icons/java.svg"        height="32" alt="Java"><br><sub>Java</sub></td>
+    <td align="center"><img src="./assets/icons/tailwindcss.svg" height="32" alt="Tailwind CSS"><br><sub>Tailwind</sub></td>
+    <td align="center"><img src="./assets/icons/docker.svg"      height="32" alt="Docker"><br><sub>Docker</sub></td>
+    <td align="center"><img src="./assets/icons/vscode.svg"      height="32" alt="VS Code"><br><sub>VS Code</sub></td>
+    <td align="center"><img src="./assets/icons/arduino.svg"     height="32" alt="Arduino/ESP32"><br><sub>Arduino/ESP32</sub></td>
   </tr>
 </table>
 
-> Dica: GitHub permite **HTML básico** dentro do Markdown (como `<img>` e tabelas) e renderiza **Mermaid** diretamente em blocos de código — ideal para manter tudo local e estável.  
+> Nota: GitHub sanitiza HTML no README (remove CSS/`style` e afins); coloque **uma linha em branco** para sair de blocos HTML antes de continuar em Markdown.  
 
 ---
 
