@@ -40,89 +40,60 @@ Sou desenvolvedor full-stack com foco em **AdonisJS v6, Next.js e PostgreSQL**, 
 
 ## Projetos (destaque)
 
-<!-- Observação de assets necessários (adicione em ./assets/projetos/):
-bithunter.png · glicemy.png · domuserve.png · iot-residuos.png · signforest.png · irriga.png
+<!-- Assets esperados em ./assets/projetos/:
+bithunter.png | glicemy.png | domuserve.png | iot-residuos.png | signforest.png | irriga.png
 -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/projetos/bithunter.png" alt="BitHunter" />
+      <a href="https://github.com/Jovinull/BitHunter">
+        <img src="./assets/projetos/bithunter.png" alt="Screenshot BitHunter" width="100%">
+      </a>
       <h3><a href="https://github.com/Jovinull/BitHunter">BitHunter</a></h3>
-      <p>
-        RPG 2D top-down de ação e exploração com progressão longa e rejogabilidade.
-        Sem narrativa linear, o jogador navega por áreas interconectadas e
-        <em>dungeons</em> de profundidade infinita, com escalonamento claro de risco/recompensa.
-        O foco é um ciclo direto e viciante: explorar → enfrentar inimigos → coletar recursos →
-        evoluir personagem e equipamento. Visão de longo prazo: coop, roda de habilidades à la Tibia,
-        refino/nível de equipamentos e sistema de ascensão com bônus permanentes.
-      </p>
-      <p><strong>Pilares:</strong> leitura visual limpa, desempenho estável, atualizações frequentes e balanceamento transparente.</p>
-      <p><strong>Stack:</strong> Java puro + AWT/Swing · pixel art · áudio leve em loop.</p>
+      <p>RPG 2D top-down de ação/exploração com progressão longa e dungeons infinitas. Ciclo central: explorar → enfrentar → coletar → evoluir. Foco em leitura visual clara, desempenho e balanceamento transparente. Stack: Java + AWT/Swing.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/projetos/glicemy.png" alt="Glicemy" />
+      <a href="https://github.com/Jovinull/glicemy-back">
+        <img src="./assets/projetos/glicemy.png" alt="Screenshot Glicemy" width="100%">
+      </a>
       <h3><a href="https://github.com/Jovinull/glicemy-back">Glicemy</a></h3>
-      <p>
-        API para monitoramento de Diabetes: registro de glicemia, administração de medicamentos,
-        lembretes e geração de relatórios. Foco em segurança desde o desenho:
-        autenticação JWT, criptografia de dados sensíveis e arquitetura para integração
-        com dispositivos de medição.
-      </p>
-      <p><strong>Stack:</strong> Node.js/Express · TypeScript · PostgreSQL/Prisma · REST.</p>
+      <p>API para gestão de Diabetes: glicemia, medicamentos, lembretes e relatórios. Segurança por padrão: JWT, criptografia e integrações com dispositivos. Stack: Node/Express · TS · PostgreSQL/Prisma.</p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/projetos/domuserve.png" alt="DomusServer/DomusLink" />
+      <img src="./assets/projetos/domuserve.png" alt="Screenshot DomusServer/DomusLink" width="100%">
       <h3>DomusServer + DomusLink</h3>
-      <p>
-        Plataforma IoT com <strong>ESP32</strong>, sensores DHT22/HC-SR04/MQ-02 e comunicação
-        <strong>MQTT/TLS</strong>. Arquitetura em máquina de estados (baseada em <code>millis()</code>)
-        para execução assíncrona, módulos independentes (rede/MQTT, sensores, publicação) e tópicos
-        padronizados para automações e dashboards.
-      </p>
-      <p><strong>Objetivos:</strong> telemetria em tempo real, comunicação segura (8883), modularidade e manutenção simples.</p>
-      <p><strong>Stack:</strong> C++ (ESP32) · MQTT (HiveMQ) · Dashboard/Integrações via Node/Flask.</p>
+      <p>Plataforma IoT em ESP32 com DHT22/HC-SR04/MQ-02 e MQTT/TLS. Máquina de estados (millis) para execução assíncrona, módulos independentes e tópicos padronizados. Objetivo: telemetria em tempo real, segurança (8883) e modularidade.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/projetos/iot-residuos.png" alt="IoT Gestão de Resíduos Sólidos Urbanos" />
+      <a href="https://github.com/Jovinull/IoT-Gestao-Residuos-Solidos-Urbanos">
+        <img src="./assets/projetos/iot-residuos.png" alt="Screenshot IoT Gestão de Resíduos" width="100%">
+      </a>
       <h3><a href="https://github.com/Jovinull/IoT-Gestao-Residuos-Solidos-Urbanos">IoT — Gestão de Resíduos</a></h3>
-      <p>
-        Arquitetura de IoT para gestão de resíduos sólidos urbanos com ênfase em
-        eficiência energética e comunicação assíncrona via <strong>MQTT</strong>.
-        Integra coleta de dados em tempo real, dispositivos de campo e camada de aplicação,
-        conectando revisão de literatura, desenho de arquitetura e implementação prática.
-      </p>
-      <p><strong>Stack:</strong> ESP32 · MQTT · APIs · Visualização/Web.</p>
+      <p>Arquitetura IoT para gestão de resíduos urbanos com MQTT, coleta em tempo real e camada de aplicação. Conecta revisão de literatura, desenho arquitetural e implementação prática.</p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/projetos/signforest.png" alt="SignForest" />
+      <a href="https://github.com/Jovinull/SignForest">
+        <img src="./assets/projetos/signforest.png" alt="Screenshot SignForest" width="100%">
+      </a>
       <h3><a href="https://github.com/Jovinull/SignForest">SignForest</a></h3>
-      <p>
-        Reconhecimento de sinais em Libras combinando <strong>MediaPipe</strong> (landmarks de mãos)
-        com <strong>Random Forest</strong>. Pipelines de criação de dataset, treino, busca de
-        hiperparâmetros e <em>inference</em> em tempo real via webcam, com métricas de avaliação
-        e salvamento do modelo para produção.
-      </p>
-      <p><strong>Stack:</strong> Python · CV/ML · MediaPipe · scikit-learn.</p>
+      <p>Reconhecimento de sinais em Libras com MediaPipe (landmarks de mãos) + Random Forest. Scripts de dataset, treino, busca de hiperparâmetros e inferência em tempo real.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/projetos/irriga.png" alt="IrrigaControll" />
+      <a href="https://github.com/Jovinull/IrrigaControll">
+        <img src="./assets/projetos/irriga.png" alt="Screenshot IrrigaControll" width="100%">
+      </a>
       <h3><a href="https://github.com/Jovinull/IrrigaControll">IrrigaControll</a></h3>
-      <p>
-        Sistema de irrigação automática com <strong>ESP32</strong>, DHT22 e sensor de umidade do solo,
-        controlando relé com base em leituras ambientais. Exposição de API HTTP no dispositivo e
-        <strong>dashboard Flask</strong> para visualização e acompanhamento em tempo real.
-      </p>
-      <p><strong>Stack:</strong> C++ (ESP32) · Flask · HTML/CSS/JS.</p>
+      <p>Sistema de irrigação com ESP32, DHT22 e sensor de solo. Controle de relé por leitura ambiental, API HTTP embarcada e dashboard Flask para visualização.</p>
     </td>
   </tr>
 </table>
+
+<!-- Linha em branco após HTML ajuda o GFM a não confundir blocos -->
 
 <details>
   <summary><strong>Mais repositórios</strong> (abrir)</summary>
