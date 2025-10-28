@@ -40,47 +40,86 @@ Sou desenvolvedor full-stack com foco em **AdonisJS v6, Next.js e PostgreSQL**, 
 
 ## Projetos (destaque)
 
+<!-- Observação de assets necessários (adicione em ./assets/projetos/):
+bithunter.png · glicemy.png · domuserve.png · iot-residuos.png · signforest.png · irriga.png
+-->
+
 <table>
   <tr>
-    <td width="50%">
-      <img src="./assets/projetos/domuserve.png" alt="DomuServer" />
-      <h3>DomuServer (privado)</h3>
-      <p>Sistema embarcado IoT em <strong>ESP32</strong> com DHT22/HC-SR04/MQ-02, arquitetura em máquina de estados (baseada em <code>millis()</code>) e comunicação assíncrona via MQTT.</p>
-      <p><strong>Tags:</strong> mqtt · iot · esp32 · sensores</p>
+    <td width="50%" valign="top">
+      <img src="./assets/projetos/bithunter.png" alt="BitHunter" />
+      <h3><a href="https://github.com/Jovinull/BitHunter">BitHunter</a></h3>
+      <p>
+        RPG 2D top-down de ação e exploração com progressão longa e rejogabilidade.
+        Sem narrativa linear, o jogador navega por áreas interconectadas e
+        <em>dungeons</em> de profundidade infinita, com escalonamento claro de risco/recompensa.
+        O foco é um ciclo direto e viciante: explorar → enfrentar inimigos → coletar recursos →
+        evoluir personagem e equipamento. Visão de longo prazo: coop, roda de habilidades à la Tibia,
+        refino/nível de equipamentos e sistema de ascensão com bônus permanentes.
+      </p>
+      <p><strong>Pilares:</strong> leitura visual limpa, desempenho estável, atualizações frequentes e balanceamento transparente.</p>
+      <p><strong>Stack:</strong> Java puro + AWT/Swing · pixel art · áudio leve em loop.</p>
     </td>
-    <td width="50%">
-      <img src="./assets/projetos/snake-ia.png" alt="Snake-IA" />
-      <h3><a href="https://github.com/Jovinull/Snake-IA">Snake-IA</a></h3>
-      <p>Agente com <strong>Deep Q-Learning</strong> jogando Snake, com replay buffer e melhorias de treinamento.</p>
-      <p><strong>Stack:</strong> Python · RL</p>
+    <td width="50%" valign="top">
+      <img src="./assets/projetos/glicemy.png" alt="Glicemy" />
+      <h3><a href="https://github.com/Jovinull/glicemy-back">Glicemy</a></h3>
+      <p>
+        API para monitoramento de Diabetes: registro de glicemia, administração de medicamentos,
+        lembretes e geração de relatórios. Foco em segurança desde o desenho:
+        autenticação JWT, criptografia de dados sensíveis e arquitetura para integração
+        com dispositivos de medição.
+      </p>
+      <p><strong>Stack:</strong> Node.js/Express · TypeScript · PostgreSQL/Prisma · REST.</p>
     </td>
   </tr>
+
   <tr>
-    <td>
-      <img src="./assets/projetos/tramix.png" alt="Tramix" />
-      <h3>Tramix (privado)</h3>
-      <p><em>API</em> em <strong>AdonisJS 6 / Node 22</strong> com autenticação JWT, gestão de usuários/tarefas e arquitetura em camadas. Front em <strong>Next.js 15</strong> com drag-and-drop e integração segura.</p>
-      <p><strong>Repos:</strong> <em>tramix-api</em> · <em>tramix-client</em></p>
+    <td width="50%" valign="top">
+      <img src="./assets/projetos/domuserve.png" alt="DomusServer/DomusLink" />
+      <h3>DomusServer + DomusLink</h3>
+      <p>
+        Plataforma IoT com <strong>ESP32</strong>, sensores DHT22/HC-SR04/MQ-02 e comunicação
+        <strong>MQTT/TLS</strong>. Arquitetura em máquina de estados (baseada em <code>millis()</code>)
+        para execução assíncrona, módulos independentes (rede/MQTT, sensores, publicação) e tópicos
+        padronizados para automações e dashboards.
+      </p>
+      <p><strong>Objetivos:</strong> telemetria em tempo real, comunicação segura (8883), modularidade e manutenção simples.</p>
+      <p><strong>Stack:</strong> C++ (ESP32) · MQTT (HiveMQ) · Dashboard/Integrações via Node/Flask.</p>
     </td>
-    <td>
-      <img src="./assets/projetos/portfolio.png" alt="Portfolio" />
-      <h3><a href="https://github.com/Jovinull/portfolio">Portfolio</a></h3>
-      <p>Site pessoal com seções de projetos, stack e contato. Base para assets e links públicos.</p>
-      <p><strong>Stack:</strong> TypeScript · Next.js · Tailwind</p>
+    <td width="50%" valign="top">
+      <img src="./assets/projetos/iot-residuos.png" alt="IoT Gestão de Resíduos Sólidos Urbanos" />
+      <h3><a href="https://github.com/Jovinull/IoT-Gestao-Residuos-Solidos-Urbanos">IoT — Gestão de Resíduos</a></h3>
+      <p>
+        Arquitetura de IoT para gestão de resíduos sólidos urbanos com ênfase em
+        eficiência energética e comunicação assíncrona via <strong>MQTT</strong>.
+        Integra coleta de dados em tempo real, dispositivos de campo e camada de aplicação,
+        conectando revisão de literatura, desenho de arquitetura e implementação prática.
+      </p>
+      <p><strong>Stack:</strong> ESP32 · MQTT · APIs · Visualização/Web.</p>
     </td>
   </tr>
+
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <img src="./assets/projetos/signforest.png" alt="SignForest" />
       <h3><a href="https://github.com/Jovinull/SignForest">SignForest</a></h3>
-      <p>Reconhecimento de sinais em Libras com MediaPipe e Random Forest; scripts para dataset e treino.</p>
-      <p><strong>Stack:</strong> Python · CV/ML</p>
+      <p>
+        Reconhecimento de sinais em Libras combinando <strong>MediaPipe</strong> (landmarks de mãos)
+        com <strong>Random Forest</strong>. Pipelines de criação de dataset, treino, busca de
+        hiperparâmetros e <em>inference</em> em tempo real via webcam, com métricas de avaliação
+        e salvamento do modelo para produção.
+      </p>
+      <p><strong>Stack:</strong> Python · CV/ML · MediaPipe · scikit-learn.</p>
     </td>
-    <td>
+    <td width="50%" valign="top">
       <img src="./assets/projetos/irriga.png" alt="IrrigaControll" />
       <h3><a href="https://github.com/Jovinull/IrrigaControll">IrrigaControll</a></h3>
-      <p>Automação de irrigação com <strong>ESP32</strong> e dashboard em Flask; foco em eficiência de água.</p>
-      <p><strong>Stack:</strong> C++ · Flask · IoT</p>
+      <p>
+        Sistema de irrigação automática com <strong>ESP32</strong>, DHT22 e sensor de umidade do solo,
+        controlando relé com base em leituras ambientais. Exposição de API HTTP no dispositivo e
+        <strong>dashboard Flask</strong> para visualização e acompanhamento em tempo real.
+      </p>
+      <p><strong>Stack:</strong> C++ (ESP32) · Flask · HTML/CSS/JS.</p>
     </td>
   </tr>
 </table>
