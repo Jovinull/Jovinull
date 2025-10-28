@@ -98,20 +98,20 @@ bithunter.png | glicemy.png | domuserve.png | iot-residuos.png | signforest.png 
 <details>
   <summary><strong>Mais repositórios</strong> (abrir)</summary>
 
-- <a href="https://github.com/Jovinull/aracaju-mais-digital">aracaju-mais-digital</a> — TypeScript · projeto público
-- <a href="https://github.com/Jovinull/AppletPlayground">AppletPlayground</a> — Java (compatível JDK 8/OpenJDK8)
-- <a href="https://github.com/Jovinull/landingpage-acesssim">landingpage-acesssim</a> — TypeScript
-- <a href="https://github.com/Jovinull/cad-preproc">cad-preproc</a> — Python
-- <a href="https://github.com/Jovinull/Valtherium">Valtherium</a> — (público)
-- <a href="https://github.com/Jovinull/idle-mine-redux">idle-mine-redux</a> — fork JS
-- <a href="https://github.com/Jovinull/glicemy-back">glicemy-back</a> — Node/Express/Prisma (privado)
-- <a href="https://github.com/Jovinull/LeafLink">LeafLink</a> — B+ Tree em Python (público)
-- <a href="https://github.com/Jovinull/Image-Showcase">Image-Showcase</a> — Flask + Bootstrap
-- <a href="https://github.com/Jovinull/Flask-Web">Flask-Web</a> — Monólito Flask + MySQL
-- <a href="https://github.com/Jovinull/Estrutura-Dados-Python">Estrutura-Dados-Python</a>
-- <a href="https://github.com/Jovinull/Breast-Cancer">Breast-Cancer</a>
-- <a href="https://github.com/Jovinull/Two-Player-PyChess">Two-Player-PyChess</a>
-- <a href="https://github.com/Jovinull/IoT-Gestao-Residuos-Solidos-Urbanos">IoT-Gestão-Resíduos</a>
+- <a href="https://github.com/Jovinull/aracaju-mais-digital">aracaju-mais-digital</a> — Portal com Next.js/TypeScript.
+- <a href="https://github.com/Jovinull/AppletPlayground">AppletPlayground</a> — Experimentos em Java (compatível JDK 8/OpenJDK8).
+- <a href="https://github.com/Jovinull/landingpage-acesssim">landingpage-acesssim</a> — Landing page institucional em TypeScript.
+- <a href="https://github.com/Jovinull/cad-preproc">cad-preproc</a> — Pré-processamento em Python para cadastros/datasets.
+- <a href="https://github.com/Jovinull/Valtherium">Valtherium</a> — Prototipação de mecânicas e sistemas.
+- <a href="https://github.com/Jovinull/idle-mine-redux">idle-mine-redux</a> — Incremental web game (fork) em JavaScript.
+- <a href="https://github.com/Jovinull/glicemy-back">glicemy-back</a> — API Node/Express/Prisma para gerenciamento glicêmico.
+- <a href="https://github.com/Jovinull/LeafLink">LeafLink</a> — Árvore B+ em Python com CLI e persistência.
+- <a href="https://github.com/Jovinull/Image-Showcase">Image-Showcase</a> — Galeria com Flask + Bootstrap.
+- <a href="https://github.com/Jovinull/Flask-Web">Flask-Web</a> — CRUD de produtos/categorias (Flask + MySQL).
+- <a href="https://github.com/Jovinull/Estrutura-Dados-Python">Estrutura-Dados-Python</a> — Implementações práticas de EDs.
+- <a href="https://github.com/Jovinull/Breast-Cancer">Breast-Cancer</a> — Classificação com redes neurais (UCI dataset).
+- <a href="https://github.com/Jovinull/Two-Player-PyChess">Two-Player-PyChess</a> — Xadrez para dois em Python/Pygame.
+- <a href="https://github.com/Jovinull/IoT-Gestao-Residuos-Solidos-Urbanos">IoT-Gestão-Resíduos</a> — Arquitetura IoT com MQTT para monitoramento.
 </details>
 
 ---
