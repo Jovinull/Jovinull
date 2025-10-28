@@ -1,21 +1,3 @@
-<!--
-README de Perfil — Felipe Jovino (Jovinull)
-Estratégia: 100% "offline-first" (sem depender de serviços externos dinâmicos).
-Coloque os arquivos abaixo em ./assets/ e ajuste os caminhos:
-
-[ASSETS OBRIGATÓRIOS]
-- ./assets/banner.png                (1400x320 ou 1920x400 — capa do perfil)
-- ./assets/avatar.png                (opcional — recorte quadrado)
-- ./assets/icons/*.svg               (ícones da stack, se quiser)
-- ./assets/projetos/domuserve.png    (screenshot leve do DomuServer/IoT)
-- ./assets/projetos/snake-ia.png     (screenshot leve do Snake-IA)
-- ./assets/projetos/tramix.png       (screenshot leve do Tramix — pode ser wireframe)
-- ./assets/projetos/portfolio.png    (screenshot da landing/portfolio)
-- ./assets/projetos/signforest.png   (screenshot do SignForest)
-- ./assets/projetos/irriga.png       (screenshot do IrrigaControll)
-- ./assets/slides/                   (PDFs de talks, se tiver)
--->
-
 <p align="center">
   <img src="./assets/banner.png" alt="Banner do perfil de Felipe Jovino" width="100%" />
 </p>
@@ -125,14 +107,52 @@ Sou desenvolvedor full-stack com foco em **AdonisJS v6, Next.js e PostgreSQL**, 
 ---
 
 ## Stack
+
+<!-- Faixa de ícones da stack (100% local). Ajuste o "height" se quiser menor/maior. -->
+<p align="center">
+  <img src="./assets/icons/typescript.svg" alt="TypeScript" height="28" />
+  <img src="./assets/icons/javascript.svg" alt="JavaScript" height="28" style="display:none" />
+  <img src="./assets/icons/nodejs.svg" alt="Node.js" height="28" />
+  <img src="./assets/icons/adonisjs.svg" alt="AdonisJS" height="28" />
+  <img src="./assets/icons/nextjs.svg" alt="Next.js" height="28" />
+  <img src="./assets/icons/react.svg" alt="React" height="28" />
+  <img src="./assets/icons/tailwindcss.svg" alt="Tailwind CSS" height="28" />
+  <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" height="28" />
+  <img src="./assets/icons/python.svg" alt="Python" height="28" />
+  <img src="./assets/icons/java.svg" alt="Java" height="28" />
+  <img src="./assets/icons/docker.svg" alt="Docker" height="28" />
+  <img src="./assets/icons/vscode.svg" alt="VS Code" height="28" />
+  <img src="./assets/icons/arduino.svg" alt="Arduino/ESP32 (ícone Arduino)" height="28" />
+</p>
+
 **Linguagens:** TypeScript · JavaScript · Python · Java · C/C++  
-**Back-end:** AdonisJS 6 (Lucid, VineJS/Bouncer) · Node/Express · Flask · PostgreSQL · Prisma · JWT/RBAC  
-**Front-end:** Next.js (App Router/SSR) · React · Tailwind · MUI · Zustand  
+**Back-end:** AdonisJS 6 (Lucid, VineJS/Bouncer) · Node/Express · Flask · PostgreSQL · JWT/RBAC  
+**Front-end:** Next.js (App Router/SSR) · React · Tailwind · Zustand  
 **IA/ML:** scikit-learn · (PyTorch quando necessário) · Rasa · Whisper  
-**IoT:** ESP32 · MQTT · React Native (Expo)  
+**IoT:** ESP32/Arduino · MQTT · React Native (Expo)  
 **Dev-Ops:** Git/GitHub · Docker · Vercel · Linux
 
-> Ícones locais opcionais em <code>./assets/icons/</code> — ex.: <code>![TS](./assets/icons/typescript.svg)</code>.
+<!-- Grade com ícone + rótulo (responsivo no GFM); tudo local -->
+<table>
+  <tr>
+    <td align="center"><img src="./assets/icons/adonisjs.svg" height="32" alt="AdonisJS" /><br/><sub>AdonisJS</sub></td>
+    <td align="center"><img src="./assets/icons/nextjs.svg" height="32" alt="Next.js" /><br/><sub>Next.js</sub></td>
+    <td align="center"><img src="./assets/icons/react.svg" height="32" alt="React" /><br/><sub>React</sub></td>
+    <td align="center"><img src="./assets/icons/typescript.svg" height="32" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
+    <td align="center"><img src="./assets/icons/nodejs.svg" height="32" alt="Node.js" /><br/><sub>Node.js</sub></td>
+    <td align="center"><img src="./assets/icons/postgresql.svg" height="32" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/icons/python.svg" height="32" alt="Python" /><br/><sub>Python/ML</sub></td>
+    <td align="center"><img src="./assets/icons/java.svg" height="32" alt="Java" /><br/><sub>Java</sub></td>
+    <td align="center"><img src="./assets/icons/tailwindcss.svg" height="32" alt="Tailwind CSS" /><br/><sub>Tailwind</sub></td>
+    <td align="center"><img src="./assets/icons/docker.svg" height="32" alt="Docker" /><br/><sub>Docker</sub></td>
+    <td align="center"><img src="./assets/icons/vscode.svg" height="32" alt="VS Code" /><br/><sub>VS Code</sub></td>
+    <td align="center"><img src="./assets/icons/arduino.svg" height="32" alt="Arduino/ESP32" /><br/><sub>Arduino/ESP32</sub></td>
+  </tr>
+</table>
+
+> Dica: GitHub permite **HTML básico** dentro do Markdown (como `<img>` e tabelas) e renderiza **Mermaid** diretamente em blocos de código — ideal para manter tudo local e estável.  
 
 ---
 
