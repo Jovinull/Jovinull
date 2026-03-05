@@ -25,12 +25,24 @@
 
 ---
 
-### O que eu ando aprontando:
-*   **No mundo corporativo:** Lidero equipes na **WM Saúde (SMARTHOSP)** e construo ecossistemas robustos com **TypeScript, AdonisJS, Next.js e PostgreSQL**.
-*   **Inovação & Impacto:** Sou CTO/Cofundador da **AccessSim** (IA + AR para acessibilidade) e cofundador da **WF3 Solutions**.
-*   **Academia:** Mestrando em Ciência da Computação (UFS/LABIC), focado em **Computação Inteligente**. Bacharel pelo IFS.
-*   **Side Projects:** De sistemas logísticos (**Nexus WMS/TMS**) a jogos indies como **BitHunter** e **AbyssASCII**.
-*   **Comunidade:** Educador no YouTube, tentando tornar a programação menos "grega" para quem está começando.
+<table width="100%" style="border: none; background: none;">
+  <tr style="border: none; background: none;">
+    <td width="80%" valign="top" style="border: none;">
+      <h3>O que eu ando aprontando:</h3>
+      <ul>
+        <li><b>No mundo corporativo:</b> Lidero equipes na <b>WM Saúde (SMARTHOSP)</b> e construo ecossistemas robustos com <b>TypeScript, AdonisJS, Next.js e PostgreSQL</b>.</li>
+        <li><b>Inovação & Impacto:</b> Sou CTO/Cofundador da <b>AccessSim</b> (IA + AR para acessibilidade) e cofundador da <b>WF3 Solutions</b>.</li>
+        <li><b>Academia:</b> Mestrando em Ciência da Computação (UFS/LABIC), focado em <b>Computação Inteligente</b>. Bacharel pelo IFS.</li>
+        <li><b>Side Projects:</b> De sistemas logísticos (<b>Nexus WMS/TMS</b>) a jogos indies como <b>BitHunter</b> e <b>AbyssASCII</b>.</li>
+        <li><b>Comunidade:</b> Educador no YouTube, tentando tornar a programação menos "grega" para quem está começando.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="middle" align="center" style="border: none;">
+      <br><br>
+      <img src="https://media1.tenor.com/m/dqjplc3jTCgAAAAC/golden-boy-kintaro.gif" width="120" style="border-radius: 8px;" alt="Kintaro Golden Boy" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,5 +56,5 @@
 
 <br>
 <p align="right">
-  <sub><i><a href="https://www.youtube.com/watch?v=nftxCG-PNpM" style="text-decoration:none; color:inherit;">See You Space Cowboy...</a></i></sub>
+  <sub><i><a href="https://www.youtube.com/watch?v=lYbYoaBrXpU" style="text-decoration:none; color:inherit;">See You Space Cowboy...</a></i></sub>
 </p>
