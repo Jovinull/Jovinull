@@ -44,5 +44,5 @@
 
 <br>
 <p align="right">
-  <sub><i><a href="https://youtu.be/nftxCG-PNpM" style="text-decoration:none; color:inherit;">See You Space Cowboy... 🚬</a></i></sub>
+  <sub><i><a href="https://www.youtube.com/watch?v=nftxCG-PNpM" style="text-decoration:none; color:inherit;">See You Space Cowboy...</a></i></sub>
 </p>
