@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_urutau.png" alt="Quokka Stare" width="400" />
+  <img src="./assets/banner_urutau.png" alt="Urutau by like" width="400" />
 </p>
 
 <h1 align="center">Felipe Jovino</h1>
@@ -31,6 +31,12 @@
 *   **Academia:** Mestrando em Ciência da Computação (UFS/LABIC), focado em **Computação Inteligente**. Bacharel pelo IFS.
 *   **Side Projects:** De sistemas logísticos (**Nexus WMS/TMS**) a jogos indies como **BitHunter** e **AbyssASCII**.
 *   **Comunidade:** Educador no YouTube, tentando tornar a programação menos "grega" para quem está começando.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jovinull&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividades do Jovinull" />
+</p>
 
 <p align="center">
   <sub>Construindo arquiteturas limpas com uma pitada de IA e muita vontade de resolver problemas reais.</sub>
