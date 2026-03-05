@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_funny.png" alt="Capivara Stare" width="400" />
+  <img src="./assets/banner_urutau.png" alt="Quokka Stare" width="400" />
 </p>
 
 <h1 align="center">Felipe Jovino</h1>
