@@ -41,3 +41,8 @@
 <p align="center">
   <sub>Construindo arquiteturas limpas com uma pitada de IA e muita vontade de resolver problemas reais.</sub>
 </p>
+
+<br>
+<p align="right">
+  <sub><i><a href="https://youtu.be/nftxCG-PNpM" style="text-decoration:none; color:inherit;">See You Space Cowboy... 🚬</a></i></sub>
+</p>
