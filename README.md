@@ -39,7 +39,7 @@
     </td>
     <td width="20%" valign="middle" align="center" style="border: none;">
       <br><br>
-      <img src="https://media1.tenor.com/m/dqjplc3jTCgAAAAC/golden-boy-kintaro.gif" width="120" style="border-radius: 8px;" alt="Kintaro Golden Boy" />
+      <img src="./assets/golden-boy-kintaro.gif" width="120" style="border-radius: 8px;" alt="Kintaro Golden Boy" />
     </td>
   </tr>
 </table>
