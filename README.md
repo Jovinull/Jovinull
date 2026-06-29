@@ -1,41 +1,37 @@
 <p align="center">
-  <img src="./assets/banner_urutau.png" alt="Urutau by like" width="400" />
+  <img src="./assets/banner_urutau.png" alt="Urutau" width="400" />
 </p>
 
 <h1 align="center">Felipe Jovino</h1>
 
-<h3 align="center">
-  IT Coordinator · Full-Stack (Adonis/Next.js) · AI/ML Research · Educador
-</h3>
+<h3 align="center">IT Coordinator · Full-Stack Dev · AI Researcher · Educator</h3>
 
 ---
 
-<div align="center">
-  <p>
-    <b>Coordenador de TI na WM Saúde · CTO na AccessSim · Pesquisador em IA (Mestrando UFS)</b><br>
-    <i>Transformando café e código em soluções de impacto social e acessibilidade.</i>
-  </p>
-
-  <p align="center">
-    <a href="mailto:felipejovinogamerplay@gmail.com">Contato</a> ·
-    <a href="https://www.linkedin.com/in/jobas">LinkedIn</a> ·
-    <a href="http://lattes.cnpq.br/8481399564892228">Lattes</a>
-  </p>
-</div>
+<p align="center">
+  <a href="mailto:felipejovinogamerplay@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/jobas">LinkedIn</a> ·
+  <a href="http://lattes.cnpq.br/8481399564892228">Lattes</a> ·
+  <a href="https://www.jovinull.com.br/">Portfolio</a>
+</p>
 
 ---
 
 <table width="100%" style="border: none; background: none;">
   <tr style="border: none; background: none;">
     <td width="80%" valign="top" style="border: none;">
-      <h3>O que eu ando aprontando:</h3>
-      <ul>
-        <li><b>No mundo corporativo:</b> Lidero equipes na <b>WM Saúde (SMARTHOSP)</b> e construo ecossistemas robustos com <b>TypeScript, AdonisJS, Next.js e PostgreSQL</b>.</li>
-        <li><b>Inovação & Impacto:</b> Sou CTO/Cofundador da <b>AccessSim</b> (IA + AR para acessibilidade) e cofundador da <b>WF3 Solutions</b>.</li>
-        <li><b>Academia:</b> Mestrando em Ciência da Computação (UFS/LABIC), focado em <b>Computação Inteligente</b>. Bacharel pelo IFS.</li>
-        <li><b>Side Projects:</b> De sistemas logísticos (<b>Nexus WMS/TMS</b>) a jogos indies como <b>BitHunter</b> e <b>AbyssASCII</b>.</li>
-        <li><b>Comunidade:</b> Educador no YouTube, tentando tornar a programação menos "grega" para quem está começando.</li>
-      </ul>
+      <p>Started tinkering with computers as a teenager in Sergipe — took things apart, burned some parts, kept going. That's still the general approach.</p>
+      <p>
+        Today: IT Coordinator at <b>WM Saúde (SMARTHOSP)</b>, CTO at <b>AccessSim</b> (AI + AR for architectural accessibility — selected for Sebrae's Catalisa ICT), co-founder at <b>WF3 Solutions</b>, and pursuing a Master's in Intelligent Computing at <b>UFS/LABIC</b>.
+      </p>
+      <p>
+        Work stack: <b>TypeScript · AdonisJS v6 · Next.js · PostgreSQL</b><br>
+        Research: <b>Python · ML · IoT/ESP32</b><br>
+        Side projects: warehouse systems, indie games, whatever seems interesting at the time.
+      </p>
+      <p>
+        Also teach on YouTube (MastersTech) — because I spent years learning things the hard way and figured someone should explain it properly.
+      </p>
     </td>
     <td width="20%" valign="middle" align="center" style="border: none;">
       <br><br>
@@ -46,13 +42,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jovinull&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividades do Jovinull" />
-</p>
+> **Achievement Unlocked: GitHub thought I was a bot**
+>
+> In June 2026, GitHub's anti-abuse system suspended my account. False positive — Support confirmed it. Apparently committing this much triggers the automation. I choose to read this as a compliment.
 
-<p align="center">
-  <sub>Construindo arquiteturas limpas com uma pitada de IA e muita vontade de resolver problemas reais.</sub>
-</p>
+---
 
 <br>
 <p align="right">
