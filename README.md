@@ -42,6 +42,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,java,rust,c,cpp,go,elixir,zig,js" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,nodejs,postgres,docker,pytorch" />
+</p>
+
+---
+
 > **Achievement Unlocked: GitHub thought I was a bot**
 >
 > In June 2026, GitHub's anti-abuse system suspended my account. False positive — Support confirmed it. Apparently committing this much triggers the automation. I choose to read this as a compliment.
