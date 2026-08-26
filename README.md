@@ -34,8 +34,6 @@ Things I've built, in no particular order of sanity:
 
 **Night job:** everything above.
 
-I also teach on YouTube (MastersTech), because I learned all of this the hard way and someone should explain it properly.
-
 ---
 
 > **Achievement Unlocked: GitHub thought I was a bot**
